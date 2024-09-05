@@ -9,7 +9,8 @@ import datetime
 from time import sleep
 import quicklog
 
-toaster = SiliconToaster("/dev/ttyUSB3")
+#toaster = SiliconToaster("/dev/ttyUSB3")
+toaster = SiliconToaster('COM8')
 toaster.on_off(True)
 
 avg_count = 100

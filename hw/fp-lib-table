@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Skull")(type "KiCad")(uri "C:/Users/Josh Genao/Documents/KiCad/7.99/footprints/Skull.pretty")(options "")(descr ""))
+)
